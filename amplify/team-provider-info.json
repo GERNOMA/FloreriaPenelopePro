@@ -10,6 +10,14 @@
       "StackName": "amplify-floreriaamplify-main-23818",
       "StackId": "arn:aws:cloudformation:sa-east-1:170277025654:stack/amplify-floreriaamplify-main-23818/20cf6970-2dd2-11ee-b287-0624ba5e932c",
       "AmplifyAppId": "dhc54r1jhd4m1"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dhc54r1jhd4m1",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
